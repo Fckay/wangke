@@ -1,0 +1,73 @@
+
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 200px;
+}
+.inputtext{
+  border: 1px solid black;
+  padding: 5%;
+  text-align: center;
+  height: 50px;
+  width: 70%;
+  margin: 10px;
+  border-radius: 5px;
+}
+.xstext{
+  //border: 1px solid black;
+  //border-radius: 5px;
+  margin:10px;
+  padding:5px;
+  background-color: #F0F0F0;
+}
+.btnstyl{
+    width: 25%;
+    background-color: #FFCC00;
+    color: #FFF;
+}
+.btnstyr{
+    
+    width: 25%;
+    background-color: #FFCC00;
+    color: #FFF;
+}
+.a1{
+  color: red;
+  font-weight:bold;
+}
+.a2{
+  color: red;
+  font-weight:bold;
+}
+.hide{
+ display: none;
+}
+.show{ 
+ display: block;
+}
+
+.content{
+      font-family: 微软雅黑;
+      font-size:14px;
+      color: #DF7401;
+      bottom:5px;
+      padding:0px;
+      margin:10px;
+      position:absolute;
+
+  } 

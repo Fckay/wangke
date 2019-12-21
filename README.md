@@ -1,3 +1,3 @@
 ## 界面：
 
-![Demo](img\Demo.png)
+![Demo](img/Demo.png)
